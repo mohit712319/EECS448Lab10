@@ -1,0 +1,17 @@
+a
+{
+        background-color: green;
+        color: red;
+}
+a:hover
+{
+        background-color: red;
+        color:green
+}
+body
+{
+        background-image: url(https://geographical.co.uk/media/k2/items/cache/e533c4b8d2d2d3798f3271c35ca6e050_XL.jpg);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed
+}
